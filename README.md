@@ -1,2 +1,2 @@
 # aws-test
-![](<build badge URL>)
+![](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaHUyVHVGR2s5N0x1VnRySk9aYVdoUDVtOWFsbjliN0UxNWlsdTk5ZGsvWEROK1BEVzJ4MU1XVnZBOXRQc2pETGp3R2R2cmlZcEFQUktNdEppU1FBeUNBPSIsIml2UGFyYW1ldGVyU3BlYyI6ImJCUDFFeDIySzJOMzZJV1EiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
